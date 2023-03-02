@@ -8,7 +8,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Career Coach</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/Career_Coach_logo.png" />
       </Head>
 
       <main>
@@ -16,7 +16,7 @@ export default function Home() {
               src='/Career_Coach_logo.png'
               alt='Career Coach'
               width={200}
-              height={} 
+              height={90} 
               />
         <Header title="Are you Looking to Advance Your Career?" />
         <p className="description">

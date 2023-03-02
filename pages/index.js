@@ -17,7 +17,7 @@ export default function Home() {
               src='/Career_Coach_logo.png'
               alt='Career Coach'
               width={200}
-              height={80} 
+              height={120} 
               />
           </nav>
         </header>

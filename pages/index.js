@@ -10,19 +10,14 @@ export default function Home() {
         <title>Career Coach</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-    
-    <header>
-        <nav>
-          <Image
+
+      <main>
+              <Image
               src='/Career_Coach_logo.png'
               alt='Career Coach'
               width={200}
               height={} 
               />
-          </nav>
-        </header>
-
-      <main>
         <Header title="Are you Looking to Advance Your Career?" />
         <p className="description">
           Career Coach offers specialized courses for working professionals. 

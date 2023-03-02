@@ -10,6 +10,10 @@ body {
   box-sizing: border-box;
 }
 
+nav{
+margin-top:16px;
+}
+
 main {
   padding: 5rem 0;
   flex: 1;

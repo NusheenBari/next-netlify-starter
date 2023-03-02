@@ -15,6 +15,17 @@ export default function Home() {
         <p className="description">
           Career Coach offers specialized courses for working professionals. 
         </p>
+    
+            <section>
+              <h2>We specialize in: </h2>
+              <ul>
+                <li>Communication Skills</li>
+                <li>Critical Thinking</li>
+                <li>Soft Skills</li>
+                <li>Self Development</li>
+                <li>Career Development</li>
+              </ul>
+            </section>
       </main>
 
       <Footer />

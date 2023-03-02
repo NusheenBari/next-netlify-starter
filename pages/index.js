@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Are you Looking to Advance Your Career?" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Career Coach offers specialized courses for working professionals. 
         </p>
       </main>
 
